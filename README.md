@@ -1,0 +1,22 @@
+<html>
+	<head><title>VARÃO DISPONÍVEL</title></head>
+	<body>
+			<center>
+			<h1>
+				<p><b> Olá eu me chamo <i>Victor Manoel</i><br>
+				Tenho 20 anos</b></p>
+				<img src="Victor1.jpeg" height="450pt" width= "600pt">		
+				<p>Sou cristão e busco uma bela varoa!</p>
+			</h1>
+			⬇ Click para saber mais! ⬇
+			<h2>			
+			<a href="http://wa.me/5511959800809" target="_blank">Meu WhatsApp</a>
+			<br/>
+			<a href="https://www.instagram.com/viktor__1410?igsh=MXhtamdlbHN2dmJ1cQ==">Meu Instagram</a>
+			<br/>
+			<br/>
+			Pode Chamar 😉
+			</h2>
+			</center>
+	</body>
+</html>
