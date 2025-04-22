@@ -1,5 +1,4 @@
 <html>
-	<head><title>VARÃO DISPONÍVEL</title></head>
 	<body>
 			<center>
 			<h1>
